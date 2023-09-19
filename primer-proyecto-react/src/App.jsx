@@ -1,9 +1,12 @@
 import Brand from "./componentes/Brand"
 import BotondeMenu from "./componentes/BotondeMenu"
 import SeccionesItem from "./componentes/SeccionesItem"
-import ImagenCarrito from './componentes/ImagenCarrito'
-import ContenedorCarrito from './componentes/ContenedorCarrito'
-import Contador from './componentes/Contador'
+import ImagenCarrito from "./componentes/ImagenCarrito"
+import Contador from "./componentes/Contador"
+import ItemListConteiner from "./componentes/ItemListContainer"
+import ImagenCarrito from "./componentes/ContenedorCarrito"
+
+
 
 import './App.css'
 
@@ -30,8 +33,9 @@ function App() {
         </li>
       </ul>
     </div>
+    <Contador/>
     <ImagenCarrito/>
-    <itemListConteiner greeting = " Hola Buen dia!!"/>
+    <ItemListConteiner greeting = " Hola Buen dia!!"/>
   </div>
 </nav>
     </div>
