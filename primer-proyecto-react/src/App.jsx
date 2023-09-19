@@ -3,7 +3,7 @@ import BotondeMenu from "./componentes/BotondeMenu"
 import SeccionesItem from "./componentes/SeccionesItem"
 import ImagenCarrito from "./componentes/ImagenCarrito"
 import Contador from "./componentes/Contador"
-import ItemListConteiner from "./componentes/ItemListContainer"
+import ItemListConteiner from "./componentes/ItemListConteiner"
 import ImagenCarrito from "./componentes/ContenedorCarrito"
 
 
