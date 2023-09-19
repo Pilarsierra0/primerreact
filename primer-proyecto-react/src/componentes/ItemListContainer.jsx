@@ -3,4 +3,4 @@ const  itemListConteiner = ({greeting})=>{
         <div className="container">{greeting}</div>
     )
 }
-export default itemListConteiner;
+export default ItemListConteiner;
